@@ -25,7 +25,7 @@
 <a href="https://t.me/+As_1A4M-XaNjZmQ1"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## Oᴡɴᴇʀ -[Sᴀᴠᴀɢᴇ Sᴀᴍᴇᴇʀ](https://t.me/B_4_BRUTU_RAJPUT)
+## Oᴡɴᴇʀ -[BRUTAL RAJPUT](https://t.me/B_4_BRUTU_RAJPUT)
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
