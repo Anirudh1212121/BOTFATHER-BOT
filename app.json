@@ -1,7 +1,7 @@
 {
-    "name": "SAVAGE BOTFATHER SPAM BOT ",
+    "name": "⁶4̴вιт乛乃𝗥𝗨𝗧𝗔𝗟 SPAM BOT ",
     "description": "Best Spamming Bots",
-    "logo": "https://telegra.ph/file/6d74a785d1432b2cb7ebc.jpg",
+    "logo": "https://telegra.ph/file/1f95bc0568721b1205873.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,9 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT",
-    "website": "https://t.me/OFFICIAL_SAMEER",
-    "success_url": "https://t.me/SAVAGE_USERBOT",
+    "repository": "https://github.com/opbrutal/BOTFATHER-BOT",
+    "website": "https://t.me/b_4_brutu_rajput",
+    "success_url": "https://t.me/+n2-80z-K51dmNDY1",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
